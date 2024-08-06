@@ -18,4 +18,3 @@ while (count <= 750):
     count += 1
 
 print('We are done here!')
-print('We are done here!')
